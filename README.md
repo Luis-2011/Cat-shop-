@@ -25,3 +25,9 @@ python cat_shop.py
 - Python
 - Questionable game design decisions
 - Beginner's luck
+
+## I learned to...
+- Use lists
+- Conditionals
+- How NOT to make a game
+- ¯\_(ツ)_/¯
